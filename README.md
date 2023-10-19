@@ -1,2 +1,2 @@
 # deparetbroom
-Processing text for pretrain and finetune Dense Passage Retrieval
+Processing text for pre-train and finetune **De**nse **pa**ssage **ret**rieval 
